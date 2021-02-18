@@ -1,0 +1,11 @@
+div {
+    position: absolute !important;
+    width: 100% !important;
+    height: 100% !important;
+    left: 0 !important;
+    padding-top: 5% !important
+}
+
+.bg-padrao{
+    background: #FAFAFA
+}
